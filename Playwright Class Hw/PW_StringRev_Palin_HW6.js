@@ -27,24 +27,3 @@ if (strvalue===strRev) {
         
 }
 
-
-    
-    
-
-
-/* for (let index = strlen-1; index >= 0; index--) {
-strRev += splitvalue[index];
-}
-console.log("The Reverse of the Given String is: ", strRev);
-
-console.log("The Actual String is:", strvalue);
-console.log("The Reversed String is:", strRev);
-
-
-if (strvalue===strRev) {
-    console.log("The Given String Value is a Palindrome");
-    
-} else {
-    console.log("The Given String Value is NOT a Palindrome");
-    
-} */
