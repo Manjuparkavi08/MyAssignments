@@ -1,0 +1,17 @@
+[
+    {
+        "Username"     : "Demosalesmanager",
+        "Password"     : "crmsfa",
+        "Company_Name" : "DTC InfoTech Solutions",
+        "First_Name"   : "Manjuparkavi",
+        "Last_Name"    : "Saravanakumar",
+        "Source"       : "Direct Mail",
+        "MarketingCamp": "CATRQ_CAMPAIGNS",
+        "Industry"     : 6,
+        "Currency"     : "INR",
+        "Country"      : "India",
+        "State"        : "IN-KA"
+
+
+    }
+]
