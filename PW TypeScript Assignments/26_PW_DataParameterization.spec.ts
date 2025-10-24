@@ -54,5 +54,7 @@ for (let state = 0; state < stateCount; state++) {
    console.log(await stateLoc.nth(state).innerText());
 
 }
+        await page.locator(`.smallSubmit`).click();
   })
+
 }
